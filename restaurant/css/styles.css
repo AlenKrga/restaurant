@@ -1,5 +1,7 @@
 body {
   background-color: #000;
+  font-family: 'Roboto', sans-serif;
+        
 }
 
 .divider {
@@ -33,3 +35,4 @@ background-position: center;
 }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
